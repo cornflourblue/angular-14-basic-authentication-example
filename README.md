@@ -2,4 +2,4 @@
 
 Angular 14 - Basic Authentication Tutorial with Example
 
-Documentation coming soon!!
+Documentation at https://jasonwatmore.com/post/2022/12/27/angular-14-basic-authentication-tutorial-with-example
